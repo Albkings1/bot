@@ -1,0 +1,42 @@
+{
+    "7151308102": {
+        "user_id": 7151308102,
+        "username": "albanianfly",
+        "is_premium": true,
+        "signals_used": 30,
+        "join_date": "2025-02-20T23:48:15.245312",
+        "license_key": "J9GBW6QGY8ZNZR9Q",
+        "daily_signals": 10,
+        "last_signal_date": "2025-02-24"
+    },
+    "8127679958": {
+        "user_id": 8127679958,
+        "username": null,
+        "is_premium": false,
+        "signals_used": 2,
+        "daily_signals": 2,
+        "last_signal_date": "2025-02-24",
+        "join_date": "2025-02-24T12:38:01.175797",
+        "license_key": null
+    },
+    "7219551280": {
+        "user_id": 7219551280,
+        "username": "xtronix3",
+        "is_premium": true,
+        "signals_used": 6,
+        "daily_signals": 6,
+        "last_signal_date": "2025-02-24",
+        "join_date": "2025-02-24T14:27:37.746686",
+        "license_key": "MI5FOF9N8Z4RACB9"
+    },
+    "7904812853": {
+        "user_id": 7904812853,
+        "username": null,
+        "is_premium": true,
+        "signals_used": 3,
+        "daily_signals": 3,
+        "last_signal_date": "2025-02-24",
+        "join_date": "2025-02-24T18:28:04.803189",
+        "license_key": "3HNPXC9IDF5XSBE4"
+    }
+}
